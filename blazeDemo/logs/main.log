@@ -1,0 +1,6 @@
+2021-12-19 21:41:27,196 +0530 [main] INFO  (TC_VerifyFlightBooking.java:22) - Customer Homepage
+2021-12-19 21:48:02,265 +0530 [main] INFO  (TC_VerifyFlightBooking.java:22) - Customer Homepage
+2021-12-19 21:48:02,331 +0530 [main] INFO  (TC_VerifyFlightBooking.java:26) - Welcome to the Simple Travel Agency! prsent in the homepage
+2021-12-19 21:48:03,176 +0530 [main] INFO  (TC_VerifyFlightBooking.java:32) - Select the Destination and Departure location
+2021-12-19 21:48:03,994 +0530 [main] INFO  (TC_VerifyFlightBooking.java:37) - Entering the customer details for flight booking
+2021-12-19 21:48:05,856 +0530 [main] INFO  (TC_VerifyFlightBooking.java:57) - Booking is confirmed

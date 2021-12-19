@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-19T16:17:54Z" name="blazeDemo" finished-at="2021-12-19T16:18:06Z" duration-ms="12070">
+    <groups>
+    </groups>
+    <test started-at="2021-12-19T16:17:54Z" name="BankingApp Test" finished-at="2021-12-19T16:18:06Z" duration-ms="12070">
+      <class name="com.blazeDemo.testCases.TC_VerifyFlightBooking">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.blazeDemo.testCases.TC_VerifyFlightBooking@23986957]" started-at="2021-12-19T16:17:55Z" name="setup" finished-at="2021-12-19T16:18:02Z" duration-ms="7131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bookFlightTicket()[pri:0, instance:com.blazeDemo.testCases.TC_VerifyFlightBooking@23986957]" started-at="2021-12-19T16:18:02Z" name="bookFlightTicket" finished-at="2021-12-19T16:18:06Z" duration-ms="3790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookFlightTicket -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.blazeDemo.testCases.TC_VerifyFlightBooking@23986957]" started-at="2021-12-19T16:18:06Z" name="tearDown" finished-at="2021-12-19T16:18:06Z" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.blazeDemo.testCases.TC_VerifyFlightBooking -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- blazeDemo -->
+</testng-results>
